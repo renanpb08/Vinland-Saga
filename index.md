@@ -8,18 +8,18 @@ Historia fala sobre a vida de um jovem chamado Thorfinn Karlsefni que teve seu p
 Aqui irei citar personagens que participam da obra.
 
 ```markdown
-Thorfinn Karlsefni
-Thors
-Helga
-Ylva
-Leif
-Floki
-Askeladd
-Bjorn
-Thorkell
-Canuto
-Ragnar
-Handalf
+# Thorfinn Karlsefni
+# Thors
+# Helga
+# Ylva
+# Leif
+# Floki
+# Askeladd
+# Bjorn
+# Thorkell
+# Canuto
+# Ragnar
+# Handalf
 
 
 
