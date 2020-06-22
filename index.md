@@ -1,8 +1,7 @@
-## Thorfinn Karlsefni
+## Sinopse 
 
-Usando esse link você vai direto pro site do anime(https://www.primevideo.com/detail/VINLAND-SAGA/0JCBAQM21T35H8URDVGEMXG1XX).
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Essa obra retrata a era viking, seus costumes, suas atrocidades, suas crenças e principalmente sua invasoes.
+Historia fala sobre a vida de um jovem chamado Thorfinn Karlsefni que teve seu pai assasinado na sua frente ainda criança e jura buscar vingança e vai fazer de tudo pra alcançala.
 
 ### Markdown
 
