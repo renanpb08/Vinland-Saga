@@ -25,8 +25,9 @@ Aqui irei citar personagens que participam da obra.
 
 ### Mangá
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/renanpb08/trab.luiz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+No mangá vc pode ver outros arcos da história de vinland, autor ainda não finalizou a obra, ele coloca um capítulo de vinte páginas todo mês. Assim que termina o anime a historia q se inicia e o desenvolvimento do personagem, e surge outros personagens que impactam muito a vida de Thofinn.
 
-### Support or Contact
+### Minha opnião
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Vinland é uma das melhores obras que acompanho, autor consegue expressar muito os sentimentos do personagem e do porque de suas ações.
+arco da fazenda onde ele decide mudar de vida pra mim é o melhor, porque mostra arrependimento de tudo o que ele fez e o intenso desejo de mudança.
