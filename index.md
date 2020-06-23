@@ -1,6 +1,6 @@
 ## Sinopse 
 
-Essa obra retrata a era viking, seus costumes, suas atrocidades, suas crenças e principalmente sua invasoes.
+Essa obra retrata a era viking, seus costumes, suas atrocidades, suas crenças e principalmente sua invasões.
 Historia fala sobre a vida de um jovem chamado Thorfinn Karlsefni que teve seu pai assasinado na sua frente ainda criança e jura buscar vingança e vai fazer de tudo pra alcançala.
 
 ### Personagens
